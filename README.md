@@ -33,7 +33,7 @@ Realtime-Visual-Assistance-Navigator is a project aimed at providing real-time a
 2. Navigate to the project directory:
 
     ```bash
-    cd realtime-guide-for-visually-impaired
+    cd Realtime-Visual-Assistance-Navigator
     ```
 
 3. Install dependencies:
