@@ -27,7 +27,7 @@ Realtime-Visual-Assistance-Navigator is a project aimed at providing real-time a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/abhinav89908/Realtime-Guide-for-Visually-Impaired.git
+    git clone https://github.com/CodeCrafted8/Realtime-Visual-Assistance-Navigator-.git
     ```
 
 2. Navigate to the project directory:
